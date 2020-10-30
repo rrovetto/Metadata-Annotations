@@ -1,4 +1,4 @@
-Versions of the metadata annotations ontology are in this location.
+Versions of the metadata annotations ontology are located here. 
 
 ### Rights
 © 2020, Robert John Rovetto. 
