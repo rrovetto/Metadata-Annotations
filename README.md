@@ -1,7 +1,7 @@
 # The Metadata Annotations Ontology 
 An ontology that offers generic metadata annotations.
 
-This repository provides an ontology of metadata annotations, such as 'Creator', 'Definition', etc. 
+This repository provides an ontology of generic metadata annotations, such as 'Creator', 'Definition', etc. 
 It can be used with any ontology to provide metadata on the ontology itself, or on its constructs (classes, relational properties, individuals, etc.). 
 
 ## Features
