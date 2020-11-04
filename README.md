@@ -6,7 +6,7 @@ It can be used with any ontology to provide metadata on the ontology itself, or 
 
 ## Features
 - **Neutrality** - The Metadata Annotations Ontology aims to be neutral with respect to universe of discourse (target domain, topic area, etc.). 
-- **Minimal commitments** - The ontology aims to may little to no commitments, ontological or otherwise. It does not use other ontologies, and therefore does not commit or force the user to import other ontologies. 
+- **Minimal commitments** - The ontology aims to make little to no commitments, ontological or otherwise. It does not use other ontologies, and therefore does not force or commit the user to use, adopt or import other ontologies/resources. 
 - **Formalism** - The current version is in OWL, but aims to be formalized or represented in other knowledge representation languages.
 
 ## Rights
