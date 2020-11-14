@@ -3,6 +3,7 @@ An ontology that offers generic metadata annotations.
 
 This repository provides an ontology of generic metadata annotations, such as 'Creator', 'Definition', etc. 
 It can be used with any ontology to provide metadata on the ontology itself, or on its constructs (classes, relational properties, individuals, etc.). 
+If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/).
 
 ## Features
 - **Neutrality** - The Metadata Annotations Ontology aims to be neutral with respect to universe of discourse (target domain, topic area, etc.). 
@@ -10,4 +11,4 @@ It can be used with any ontology to provide metadata on the ontology itself, or 
 - **Formalism** - The current version is in OWL, but aims to be formalized or represented in other knowledge representation languages.
 
 ## Rights
-© 2018-2020, Robert John Rovetto.
+© 2018-2020, Robert John Rovetto. All rights reserved.
